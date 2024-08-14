@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/OperationalLibrary/Scenes/Test.unity
+- path: Assets/Lobby/Scenes/Lobby.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
