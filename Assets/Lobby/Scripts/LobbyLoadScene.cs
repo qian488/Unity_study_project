@@ -31,4 +31,9 @@ public class LobbyLoadScene : MonoBehaviour
     {
         SceneManager.LoadScene("Gal_first");
     }
+
+    public void StartPackage()
+    {
+        SceneManager.LoadScene("Package");
+    }
 }
