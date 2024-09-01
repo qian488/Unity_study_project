@@ -1,12 +1,14 @@
 using JetBrains.Annotations;
+using Lobby;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 namespace Running
 {
-    public class Running_GameManager : MonoBehaviour
+    public class Running_GameManager : LobbyGameManager
     {
         public enum GameState
         {
@@ -91,7 +93,12 @@ namespace Running
             }
             if (Input.GetKeyDown(KeyCode.Escape))
             {
-                PauseGame();
+                // PauseGame();
+                SceneManager.LoadScene("Lobby");
+                /*
+                LobbyLoadScene lobbyLoadScene = new LobbyLoadScene();
+                lobbyLoadScene.ReturnLobby();
+                */
             }
         }
         //≈‹µ¿“∆∂Ø

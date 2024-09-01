@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "D:\\Projects\\UnityProjects\\Unity_study_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\lobby\\scripts\\lobbyloadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\lobby\\scripts\\lobbyloadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\killer\\standard assets\\utility\\eventsystemchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\killer\\standard assets\\utility\\eventsystemchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|d:\\projects\\unityprojects\\unity_study_project\\assets\\gal_first\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\gal_first\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|d:\\projects\\unityprojects\\unity_study_project\\assets\\gal_first\\scripts\\gal_first_gamemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\gal_first\\scripts\\gal_first_gamemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\gal_first\\scripts\\audiosourcemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\gal_first\\scripts\\audiosourcemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\gal_first\\scripts\\uimanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\gal_first\\scripts\\uimanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\gal_first\\scripts\\gal_first_gamemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\gal_first\\scripts\\gal_first_gamemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\gal_first\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\gal_first\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\lobby\\scripts\\lobbyuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\lobby\\scripts\\lobbyuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\killer\\script\\player_movecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\killer\\script\\player_movecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\lobby\\scripts\\lobbymusicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\lobby\\scripts\\lobbymusicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\killer\\script\\mouse_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\killer\\script\\mouse_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\lobby\\scripts\\lobbygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\lobby\\scripts\\lobbygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\operationallibrary\\scripts\\balljump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\operationallibrary\\scripts\\balljump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\testrpg\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\testrpg\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\running\\scripts\\running_gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\running\\scripts\\running_gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,89 +58,125 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StartGame.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Gal_first\\Scripts\\StartGame.cs",
-              "RelativeDocumentMoniker": "Assets\\Gal_first\\Scripts\\StartGame.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Gal_first\\Scripts\\StartGame.cs",
-              "RelativeToolTip": "Assets\\Gal_first\\Scripts\\StartGame.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAABOwAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "AudiosourceManger.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Gal_first\\Scripts\\AudiosourceManger.cs",
+              "RelativeDocumentMoniker": "Assets\\Gal_first\\Scripts\\AudiosourceManger.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Gal_first\\Scripts\\AudiosourceManger.cs",
+              "RelativeToolTip": "Assets\\Gal_first\\Scripts\\AudiosourceManger.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA5wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:52:39.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T10:27:48.048Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Gal_first_GameManger.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Gal_first\\Scripts\\Gal_first_GameManger.cs",
-              "RelativeDocumentMoniker": "Assets\\Gal_first\\Scripts\\Gal_first_GameManger.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Gal_first\\Scripts\\Gal_first_GameManger.cs",
-              "RelativeToolTip": "Assets\\Gal_first\\Scripts\\Gal_first_GameManger.cs",
-              "ViewState": "AQIAAHIBAAAAAAAAAAAkwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:52:19.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LobbyMusicManager.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyMusicManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Lobby\\Scripts\\LobbyMusicManager.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyMusicManager.cs",
-              "RelativeToolTip": "Assets\\Lobby\\Scripts\\LobbyMusicManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:52:09.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LobbyGameManager.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyGameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Lobby\\Scripts\\LobbyGameManager.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyGameManager.cs",
-              "RelativeToolTip": "Assets\\Lobby\\Scripts\\LobbyGameManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:52:03.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LobbyUIManager.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyUIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Lobby\\Scripts\\LobbyUIManager.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyUIManager.cs",
-              "RelativeToolTip": "Assets\\Lobby\\Scripts\\LobbyUIManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:51:54.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UIManger.cs",
               "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Gal_first\\Scripts\\UIManger.cs",
               "RelativeDocumentMoniker": "Assets\\Gal_first\\Scripts\\UIManger.cs",
               "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Gal_first\\Scripts\\UIManger.cs",
               "RelativeToolTip": "Assets\\Gal_first\\Scripts\\UIManger.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAUwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:12:14.152Z"
+              "WhenOpened": "2024-09-01T10:27:38.634Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LobbyLoadScene.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyLoadScene.cs",
-              "RelativeDocumentMoniker": "Assets\\Lobby\\Scripts\\LobbyLoadScene.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyLoadScene.cs",
-              "RelativeToolTip": "Assets\\Lobby\\Scripts\\LobbyLoadScene.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAqAAAA",
+              "Title": "EventSystemChecker.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Killer\\Standard Assets\\Utility\\EventSystemChecker.cs",
+              "RelativeDocumentMoniker": "Assets\\Killer\\Standard Assets\\Utility\\EventSystemChecker.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Killer\\Standard Assets\\Utility\\EventSystemChecker.cs",
+              "RelativeToolTip": "Assets\\Killer\\Standard Assets\\Utility\\EventSystemChecker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:11:02.211Z",
+              "WhenOpened": "2024-09-01T10:25:08.265Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartGame.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Gal_first\\Scripts\\StartGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Gal_first\\Scripts\\StartGame.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Gal_first\\Scripts\\StartGame.cs",
+              "RelativeToolTip": "Assets\\Gal_first\\Scripts\\StartGame.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:22:11.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gal_first_GameManger.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Gal_first\\Scripts\\Gal_first_GameManger.cs",
+              "RelativeDocumentMoniker": "Assets\\Gal_first\\Scripts\\Gal_first_GameManger.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Gal_first\\Scripts\\Gal_first_GameManger.cs",
+              "RelativeToolTip": "Assets\\Gal_first\\Scripts\\Gal_first_GameManger.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAABOwLMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:21:38.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mouse_Control.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Killer\\Script\\Mouse_Control.cs",
+              "RelativeDocumentMoniker": "Assets\\Killer\\Script\\Mouse_Control.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Killer\\Script\\Mouse_Control.cs",
+              "RelativeToolTip": "Assets\\Killer\\Script\\Mouse_Control.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:21:18.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player_MoveControl.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Killer\\Script\\Player_MoveControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Killer\\Script\\Player_MoveControl.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Killer\\Script\\Player_MoveControl.cs",
+              "RelativeToolTip": "Assets\\Killer\\Script\\Player_MoveControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:21:02.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BallJump.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\BallJump.cs",
+              "RelativeDocumentMoniker": "Assets\\OperationalLibrary\\Scripts\\BallJump.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\BallJump.cs",
+              "RelativeToolTip": "Assets\\OperationalLibrary\\Scripts\\BallJump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:20:43.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Running_GameManager.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Running\\scripts\\Running_GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Running\\scripts\\Running_GameManager.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Running\\scripts\\Running_GameManager.cs",
+              "RelativeToolTip": "Assets\\Running\\scripts\\Running_GameManager.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:20:04.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerControl.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\TestRPG\\PlayerControl.cs",
+              "RelativeDocumentMoniker": "Assets\\TestRPG\\PlayerControl.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\TestRPG\\PlayerControl.cs",
+              "RelativeToolTip": "Assets\\TestRPG\\PlayerControl.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwCsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T08:27:13.332Z"
             }
           ]
         }

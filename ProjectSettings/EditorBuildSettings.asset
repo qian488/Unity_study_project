@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Lobby/Scenes/Lobby.unity
+    path: Assets/Lobby/Lobby.unity
     guid: 13451a637c9228e42a41e74404ad97d7
   - enabled: 1
     path: Assets/Gal_first/Scenes/Gal_first.unity
@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Package/Package.unity
     guid: 56cd6f9a732e38a47a1c2747b7353e31
+  - enabled: 1
+    path: Assets/TestRPG/overlookingrpg.unity
+    guid: ee6bd5da7829e7c43a8dc03d1ed79a14
   m_configObjects: {}

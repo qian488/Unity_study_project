@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace Gal_first
 {
@@ -167,11 +168,16 @@ namespace Gal_first
         //处理每一条剧情数据
         private void HandData()
         {
+
             Debug.Log(scriptIndex);
             Debug.Log(scriptdatas.Count);
             if (scriptIndex >= scriptdatas.Count)
             {
                 Debug.Log("Game over！");
+                if (Input.GetKeyDown(KeyCode.Escape))
+                {
+                    SceneManager.LoadScene("Lobby");
+                }
                 return;
             }
             PlayMusical(scriptdatas[scriptIndex].SoundType);
