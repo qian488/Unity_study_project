@@ -66,6 +66,7 @@
     <Compile Include="Assets\OperationalLibrary\Scripts\BallJump.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Cameras\Scripts\HandHeldCam.cs" />
+    <Compile Include="Assets\Huoying2d\Scripts\Exit.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Aircraft\Scripts\AeroplanePropellerAnimator.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Cameras\Scripts\AutoCam.cs" />
@@ -80,7 +81,10 @@
     <Compile Include="Assets\Killer\Standard Assets\ParticleSystems\Scripts\ExtinguishableParticleSystem.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
+    <Compile Include="Assets\Huoying2d\Scripts\Player.cs" />
+    <Compile Include="Assets\Killer\Script\Exit.cs" />
     <Compile Include="Assets\Killer\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" />
+    <Compile Include="Assets\Package\Scripts\Exit.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\TimedObjectDestructor.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\FOVKick.cs" />
     <Compile Include="Assets\Killer\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
@@ -141,7 +145,9 @@
     <Compile Include="Assets\Gal_first\Scripts\Gal_first_GameManger.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
+    <Compile Include="Assets\Huoying2d\Scripts\Tornade.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
+    <Compile Include="Assets\Pvz\scripts\Exit.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\DragRigidbody.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Car\Scripts\BrakeLight.cs" />
     <Compile Include="Assets\Lobby\Scripts\LobbyMusicManager.cs" />
@@ -177,8 +183,10 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\Killer\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
     <None Include="Assets\Killer\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
+    <None Include="Assets\TestRPG\还差个摄像头跟随.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Killer\Standard Assets\Effects\Projectors\Guidelines.txt" />
+    <None Include="Assets\Huoying2d\bug_风和角色始终一个方向.txt" />
     <None Include="Assets\Killer\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
@@ -188,6 +196,7 @@
     <None Include="Assets\Killer\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
     <None Include="Assets\Killer\Standard Assets\Vehicles\Aircraft\AircraftGuidelines.txt" />
     <None Include="Assets\Killer\Standard Assets\Cameras\CameraGuidelines.txt" />
+    <None Include="Assets\Huoying2d\主要是角色技能动画的制作.txt" />
     <None Include="Assets\Killer\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
     <None Include="Assets\Killer\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
     <None Include="Assets\Killer\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />

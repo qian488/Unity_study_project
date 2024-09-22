@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: b35f094779ed21046a2659e1b9303d04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: shouju_0
+  - first:
+      213: 21300002
+    second: shouju_1
+  - first:
+      213: 21300004
+    second: shouju_2
+  - first:
+      213: 21300006
+    second: shouju_3
+  - first:
+      213: 21300008
+    second: shouju_4
+  - first:
+      213: 21300010
+    second: shouju_5
+  - first:
+      213: 21300012
+    second: shouju_6
+  - first:
+      213: 21300014
+    second: shouju_7
+  - first:
+      213: 21300016
+    second: shouju_8
+  - first:
+      213: 21300018
+    second: shouju_9
+  - first:
+      213: 21300020
+    second: shouju_10
+  - first:
+      213: 21300022
+    second: shouju_11
+  - first:
+      213: 21300024
+    second: shouju_12
+  - first:
+      213: 21300026
+    second: shouju_13
+  - first:
+      213: 21300028
+    second: shouju_14
+  - first:
+      213: 21300030
+    second: shouju_15
+  - first:
+      213: 21300032
+    second: shouju_16
+  - first:
+      213: 21300034
+    second: shouju_17
+  - first:
+      213: 21300036
+    second: shouju_18
+  - first:
+      213: 21300038
+    second: shouju_19
+  - first:
+      213: 21300040
+    second: shouju_20
+  - first:
+      213: 21300042
+    second: shouju_21
+  - first:
+      213: 21300044
+    second: shouju_22
+  - first:
+      213: 21300046
+    second: shouju_23
+  - first:
+      213: 21300048
+    second: shouju_24
+  - first:
+      213: 21300050
+    second: shouju_25
+  - first:
+      213: 21300052
+    second: shouju_26
+  - first:
+      213: 21300054
+    second: shouju_27
+  - first:
+      213: 21300056
+    second: shouju_28
+  - first:
+      213: 21300058
+    second: shouju_29
+  - first:
+      213: 21300060
+    second: shouju_30
+  - first:
+      213: 21300062
+    second: shouju_31
+  - first:
+      213: 21300064
+    second: shouju_32
+  - first:
+      213: 21300066
+    second: shouju_33
+  - first:
+      213: 21300068
+    second: shouju_34
+  - first:
+      213: 21300070
+    second: shouju_35
+  - first:
+      213: 21300072
+    second: shouju_36
+  - first:
+      213: 21300074
+    second: shouju_37
+  - first:
+      213: 21300076
+    second: shouju_38
+  - first:
+      213: 21300078
+    second: shouju_39
+  - first:
+      213: 21300080
+    second: shouju_40
+  - first:
+      213: 21300082
+    second: shouju_41
+  - first:
+      213: 21300084
+    second: shouju_42
+  - first:
+      213: 21300086
+    second: shouju_43
+  - first:
+      213: 21300088
+    second: shouju_44
+  - first:
+      213: 21300090
+    second: shouju_45
+  - first:
+      213: 21300092
+    second: shouju_46
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shouju_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 324
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671c2fc701aa09c4e91cc631031bff7d
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 324
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaee9b5e0c092e4e965293092473e3d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 324
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8170ecf4f9a1e354b994afdc720bf63e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 324
+        width: 37
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c2fc2b57773714ca2a1565b6f5905d
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 324
+        width: 37
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526c8fb3a2f96564a853e96ec7d26b53
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 324
+        width: 37
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df14e13ba78db942b4f05ea4dc23d29
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 324
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9be864a9e0f0f48831e3b2a46014d8
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 324
+        width: 39
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fba0b2f496847d4ebefdd712b1f31da
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 330
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428e85235ab75ab49bfea519cb609893
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 279
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c013d1fa56818ec45b0ca2bac2735e08
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 279
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359440904067a6a4ea31e54abe620ed5
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 279
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfbcacb1ff94e544b318b07965d690c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 279
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cca710f34ad3b646a1cec606b682ace
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 279
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5928acb5e6eeb88468f321e194dc45a1
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 279
+        width: 35
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d0a4cfe8faa9b4ea77a21df1d32518
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_15
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 279
+        width: 35
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a4d8b101e734b4b8301dc1154dd261
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 279
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57c517a68cf14a4b9582c3790ad8215
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 279
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05ed088db830c845acd34d79d828a3e
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 279
+        width: 39
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9887221b2ee3a4696a328169d87edd
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 279
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e481e481588911d4a86cff19412c6a10
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 279
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f03414947b5c444ea280c7b9ee8fff7
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_21
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 279
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386a594925f71ed409ef4150bc60eaff
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_22
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 279
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ba8709855dac408f0c047f7cbd2a1
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_23
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 279
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c024a85f7de4149ae68a6884fcef29
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 234
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e60ce0316b46741bb72ab23210b1c9
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 234
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7641141e238d864dab9a752528e4781
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 234
+        width: 40
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083a92fa401b0d445b585df487f1f0e2
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 234
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b801cdc4bb80cac4b8f0cc2d96815b33
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 234
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe57997093817941bd540cd8cbf036a
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 234
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05328b8bebf5e9a4fa9d7d89a0810d80
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 234
+        width: 40
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fd51f90a10bd3449d8f3d1d3ecb5a1
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_31
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 234
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216afa09eb945fe468a32a85aeecded2
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 156
+        width: 158
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35012bdce84acff4f8ecd7561bc5805b
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 155
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c861eee094a13440921fd8f8b782b99
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 155
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebab4bcea5cbd6840ad8d075c1556551
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_35
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 159
+        width: 27
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b29b8ea4570cc2429eb3b4178443ce3
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 155
+        width: 29
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908e45b6c3a19ad46a3c6e7abb12c9a9
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 113
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3048479a9fb9f0e4c97f98122356db34
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_38
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 113
+        width: 38
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e251f9a8da691468d9282695ea9a12
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 113
+        width: 39
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41927ed95b97d754c8531b185e09337f
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 113
+        width: 39
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22c29671a53b664f8fb923ee15a7251
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_41
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 113
+        width: 37
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdfcca5143b62c4183744306322293e
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_42
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 113
+        width: 39
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453c44ec327c18b4fa07043d0bd2a91a
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_43
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 113
+        width: 38
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4132de97d9b65145b1e7366c599fbf9
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_44
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 113
+        width: 37
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cdd4ffde072ce48a622940921574d8
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_45
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 113
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeeaa2fc9f515e46b3ced40c521e098
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouju_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 127
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad03030d4f53764ea15735ffbb7eba8
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: abb071d7bc4a2114db0c2092097803a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shouju_0: 21300000
+      shouju_1: 21300002
+      shouju_10: 21300020
+      shouju_11: 21300022
+      shouju_12: 21300024
+      shouju_13: 21300026
+      shouju_14: 21300028
+      shouju_15: 21300030
+      shouju_16: 21300032
+      shouju_17: 21300034
+      shouju_18: 21300036
+      shouju_19: 21300038
+      shouju_2: 21300004
+      shouju_20: 21300040
+      shouju_21: 21300042
+      shouju_22: 21300044
+      shouju_23: 21300046
+      shouju_24: 21300048
+      shouju_25: 21300050
+      shouju_26: 21300052
+      shouju_27: 21300054
+      shouju_28: 21300056
+      shouju_29: 21300058
+      shouju_3: 21300006
+      shouju_30: 21300060
+      shouju_31: 21300062
+      shouju_32: 21300064
+      shouju_33: 21300066
+      shouju_34: 21300068
+      shouju_35: 21300070
+      shouju_36: 21300072
+      shouju_37: 21300074
+      shouju_38: 21300076
+      shouju_39: 21300078
+      shouju_4: 21300008
+      shouju_40: 21300080
+      shouju_41: 21300082
+      shouju_42: 21300084
+      shouju_43: 21300086
+      shouju_44: 21300088
+      shouju_45: 21300090
+      shouju_46: 21300092
+      shouju_5: 21300010
+      shouju_6: 21300012
+      shouju_7: 21300014
+      shouju_8: 21300016
+      shouju_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
