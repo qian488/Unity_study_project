@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\Projects\\UnityProjects\\Unity_study_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|d:\\projects\\unityprojects\\unity_study_project\\assets\\huoying2d\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\huoying2d\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|d:\\projects\\unityprojects\\unity_study_project\\assets\\operationallibrary\\scripts\\luatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\operationallibrary\\scripts\\luatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\huoying2d\\scripts\\tornade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\huoying2d\\scripts\\tornade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\operationallibrary\\scripts\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\operationallibrary\\scripts\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\testrpg\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\testrpg\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\operationallibrary\\scripts\\sqlitetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\operationallibrary\\scripts\\sqlitetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\huoying2d\\scripts\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\huoying2d\\scripts\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\operationallibrary\\scripts\\navigationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\operationallibrary\\scripts\\navigationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\lobby\\scripts\\lobbyloadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\lobby\\scripts\\lobbyloadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\operationallibrary\\scripts\\linecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\operationallibrary\\scripts\\linecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\pvz\\scripts\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\pvz\\scripts\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\operationallibrary\\scripts\\trailtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\operationallibrary\\scripts\\trailtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\operationallibrary\\scripts\\balljump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\operationallibrary\\scripts\\balljump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,76 +46,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tornade.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Huoying2d\\Scripts\\Tornade.cs",
-              "RelativeDocumentMoniker": "Assets\\Huoying2d\\Scripts\\Tornade.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Huoying2d\\Scripts\\Tornade.cs",
-              "RelativeToolTip": "Assets\\Huoying2d\\Scripts\\Tornade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T14:07:18.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Exit.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Huoying2d\\Scripts\\Exit.cs",
-              "RelativeDocumentMoniker": "Assets\\Huoying2d\\Scripts\\Exit.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Huoying2d\\Scripts\\Exit.cs",
-              "RelativeToolTip": "Assets\\Huoying2d\\Scripts\\Exit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T11:55:38.656Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Player.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Huoying2d\\Scripts\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Huoying2d\\Scripts\\Player.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Huoying2d\\Scripts\\Player.cs",
-              "RelativeToolTip": "Assets\\Huoying2d\\Scripts\\Player.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAuwD0AAAAoAAAA",
+              "Title": "LuaTest.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\LuaTest.cs",
+              "RelativeDocumentMoniker": "Assets\\OperationalLibrary\\Scripts\\LuaTest.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\LuaTest.cs",
+              "RelativeToolTip": "Assets\\OperationalLibrary\\Scripts\\LuaTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T11:55:26.452Z",
+              "WhenOpened": "2024-10-21T12:35:39.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerControl.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\TestRPG\\PlayerControl.cs",
-              "RelativeDocumentMoniker": "Assets\\TestRPG\\PlayerControl.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\TestRPG\\PlayerControl.cs",
-              "RelativeToolTip": "Assets\\TestRPG\\PlayerControl.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAkwCgAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\LoginTest.cs",
+              "RelativeDocumentMoniker": "Assets\\OperationalLibrary\\Scripts\\LoginTest.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\LoginTest.cs",
+              "RelativeToolTip": "Assets\\OperationalLibrary\\Scripts\\LoginTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T11:52:49.202Z"
+              "WhenOpened": "2024-10-21T11:35:00.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Exit.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Pvz\\scripts\\Exit.cs",
-              "RelativeDocumentMoniker": "Assets\\Pvz\\scripts\\Exit.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Pvz\\scripts\\Exit.cs",
-              "RelativeToolTip": "Assets\\Pvz\\scripts\\Exit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "DocumentIndex": 2,
+              "Title": "SqliteTest.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\SqliteTest.cs",
+              "RelativeDocumentMoniker": "Assets\\OperationalLibrary\\Scripts\\SqliteTest.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\SqliteTest.cs",
+              "RelativeToolTip": "Assets\\OperationalLibrary\\Scripts\\SqliteTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T09:02:07.702Z"
+              "WhenOpened": "2024-10-19T08:47:32.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavigationTest.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\NavigationTest.cs",
+              "RelativeDocumentMoniker": "Assets\\OperationalLibrary\\Scripts\\NavigationTest.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\NavigationTest.cs",
+              "RelativeToolTip": "Assets\\OperationalLibrary\\Scripts\\NavigationTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:20:31.894Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LobbyLoadScene.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyLoadScene.cs",
-              "RelativeDocumentMoniker": "Assets\\Lobby\\Scripts\\LobbyLoadScene.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyLoadScene.cs",
-              "RelativeToolTip": "Assets\\Lobby\\Scripts\\LobbyLoadScene.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAqAAAA",
+              "Title": "LineControl.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\LineControl.cs",
+              "RelativeDocumentMoniker": "Assets\\OperationalLibrary\\Scripts\\LineControl.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\LineControl.cs",
+              "RelativeToolTip": "Assets\\OperationalLibrary\\Scripts\\LineControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T08:48:06.524Z"
+              "WhenOpened": "2024-10-18T07:57:53.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrailTest.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\TrailTest.cs",
+              "RelativeDocumentMoniker": "Assets\\OperationalLibrary\\Scripts\\TrailTest.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\TrailTest.cs",
+              "RelativeToolTip": "Assets\\OperationalLibrary\\Scripts\\TrailTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:39:16.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BallJump.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\BallJump.cs",
+              "RelativeDocumentMoniker": "Assets\\OperationalLibrary\\Scripts\\BallJump.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\BallJump.cs",
+              "RelativeToolTip": "Assets\\OperationalLibrary\\Scripts\\BallJump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:36:18.459Z"
             }
           ]
         }
