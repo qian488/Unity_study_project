@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -25,10 +25,9 @@ namespace Bomberman
 
             if (distance < 2)
             {
-                Debug.Log("Íæ¼ÒËÀÍö£¬ÓÎÏ·½áÊø");
+                Debug.Log("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï·ï¿½ï¿½ï¿½ï¿½");
                 Time.timeScale = 0;
             }
         }
     }
 }
-

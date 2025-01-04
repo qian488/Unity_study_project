@@ -62,26 +62,17 @@
   <ItemGroup>
     <Compile Include="Assets\XLua\Examples\09_GenericMethod\Foo.cs" />
     <Compile Include="Assets\Bomberman\Scripts\EnemyControl.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_WaitForSecondsWrap.cs" />
     <Compile Include="Assets\XLua\Src\DelegateBridge.cs" />
     <Compile Include="Assets\XLua\Examples\04_LuaObjectOrented\InvokeLua.cs" />
-    <Compile Include="Assets\OperationalLibrary\Scripts\LoginTest.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_AnimationClipWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneUserControl2Axis.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaTest_LuaBehaviourWrap.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_Vector2Wrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\ParticleSystems\Scripts\FireLight.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_ResourcesWrap.cs" />
     <Compile Include="Assets\XLua\Examples\08_Hotfix\HotfixTest.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaTest_Foo2ParentWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\ParticleSystems\Scripts\ExplosionPhysicsForce.cs" />
-    <Compile Include="Assets\XLua\Gen\Tutorial_ICalcWrap.cs" />
     <Compile Include="Assets\XLua\Src\TemplateEngine\TemplateEngine.cs" />
     <Compile Include="Assets\OperationalLibrary\Scripts\BallJump.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Cameras\Scripts\HandHeldCam.cs" />
     <Compile Include="Assets\Huoying2d\Scripts\Exit.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaTest_Foo1ChildWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Aircraft\Scripts\AeroplanePropellerAnimator.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Cameras\Scripts\AutoCam.cs" />
@@ -89,27 +80,22 @@
     <Compile Include="Assets\XLua\Examples\06_Coroutine\CoroutineTest.cs" />
     <Compile Include="Assets\OperationalLibrary\Scripts\LineControl.cs" />
     <Compile Include="Assets\OperationalLibrary\Scripts\SqliteTest.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_ColorWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\CurveControlledBob.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Cameras\Scripts\ProtectCameraFromWallClip.cs" />
     <Compile Include="Assets\TreasureHunt\Scripts\CoinControl.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\AutoMoveAndRotate.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaTest_IExchangerBridge.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
     <Compile Include="Assets\TestRPG\PlayerControl.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_TransformWrap.cs" />
     <Compile Include="Assets\XLua\Src\ObjectCasters.cs" />
     <Compile Include="Assets\Killer\Standard Assets\ParticleSystems\Scripts\ExtinguishableParticleSystem.cs" />
-    <Compile Include="Assets\XLua\Gen\WrapPusher.cs" />
     <Compile Include="Assets\XLua\Examples\ExampleGenConfig.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
     <Compile Include="Assets\Bomberman\Scripts\PlayerControl.cs" />
     <Compile Include="Assets\XLua\Examples\06_Coroutine\Coroutine_Runner.cs" />
     <Compile Include="Assets\XLua\Examples\10_SignatureLoader\SignatureLoaderTest.cs" />
     <Compile Include="Assets\OperationalLibrary\Scripts\NavigationTest.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaTest_Foo1ParentWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
     <Compile Include="Assets\Huoying2d\Scripts\Player.cs" />
     <Compile Include="Assets\XLua\Src\LuaEnv.cs" />
@@ -120,23 +106,17 @@
     <Compile Include="Assets\XLua\Tutorial\CSharpCallLua\CSCallLua.cs" />
     <Compile Include="Assets\TreasureHunt\BrokenVector\LowPolyDungeon\Demo Scenes\PlayerMovement.cs" />
     <Compile Include="Assets\XLua\Src\CopyByValue.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaTest_PeddingWrap.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_BoundsWrap.cs" />
-    <Compile Include="Assets\XLua\Examples\07_AsyncTest\MessageBox.cs" />
     <Compile Include="Assets\OperationalLibrary\Scripts\LuaTest.cs" />
+    <Compile Include="Assets\XLua\Examples\07_AsyncTest\MessageBox.cs" />
     <Compile Include="Assets\XLua\Src\LuaDLL.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\TimedObjectDestructor.cs" />
     <Compile Include="Assets\XLua\Src\LuaException.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_TimeWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\FOVKick.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaTest_BaseTestWrap.cs" />
     <Compile Include="Assets\XLua\Tutorial\LoadLuaScript\Loader\CustomLoader.cs" />
     <Compile Include="Assets\XLua\Examples\14_HotfixAsyncAwait\HotfixAsyncAwaitTest.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_ParticleSystemWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
     <Compile Include="Assets\Killer\Standard Assets\2D\Scripts\Restarter.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Environment\Water (Basic)\Scripts\WaterBasic.cs" />
-    <Compile Include="Assets\XLua\Gen\PackUnpack.cs" />
     <Compile Include="Assets\Killer\Standard Assets\ParticleSystems\Scripts\AfterburnerPhysicsForce.cs" />
     <Compile Include="Assets\XLua\Examples\11_RawObject\RawObjectTest.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Car\Scripts\CarUserControl.cs" />
@@ -145,46 +125,37 @@
     <Compile Include="Assets\Killer\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" />
     <Compile Include="Assets\XLua\Src\SignatureLoader.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneControlSurfaceAnimator.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_MonoBehaviourWrap.cs" />
     <Compile Include="Assets\Bomberman\Scripts\GameManager.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\AutoMobileShaderSwitch.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Aircraft\Scripts\LandingGear.cs" />
-    <Compile Include="Assets\Bomberman\Scripts\CameraControl.cs" />
     <Compile Include="Assets\XLua\Src\TypeExtensions.cs" />
+    <Compile Include="Assets\Bomberman\Scripts\CameraControl.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Car\Scripts\CarSelfRighting.cs" />
     <Compile Include="Assets\XLua\Examples\08_Hotfix\HotfixTest2.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
     <Compile Include="Assets\Gal_first\Scripts\ScriptData.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_SkinnedMeshRendererWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\ParticleSystems\Scripts\Hose.cs" />
     <Compile Include="Assets\TreasureHunt\BrokenVector\LowPolyDungeon\Demo Scenes\MouseCamLook.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_ComponentWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\ActivateTrigger.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\FPSCounter.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\ParticleSystemDestroyer.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneAudio.cs" />
     <Compile Include="Assets\XLua\Src\GenAttributes.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_MathfWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Cameras\Scripts\PivotBasedCameraRig.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_TextAssetWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Environment\Water\Water\Scripts\Water.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\EventSystemChecker.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\SmoothFollow.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_QuaternionWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Car\Scripts\SkidTrail.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_RendererWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
     <Compile Include="Assets\XLua\Src\MethodWarpsCache.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneUserControl4Axis.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
     <Compile Include="Assets\XLua\Src\ObjectPool.cs" />
-    <Compile Include="Assets\XLua\Gen\System_Collections_Generic_List_1_System_Int32_Wrap.cs" />
     <Compile Include="Assets\Gal_first\Scripts\StartGame.cs" />
     <Compile Include="Assets\Bomberman\Scripts\BombControl.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaTest_Foo2ChildWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\ObjectResetter.cs" />
     <Compile Include="Assets\TreasureHunt\Scripts\ChestControl.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
@@ -193,58 +164,40 @@
     <Compile Include="Assets\TreasureHunt\Scripts\EffectControl.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Cameras\Scripts\TargetFieldOfView.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Car\Scripts\CarController.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_Ray2DWrap.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaTest_NoGcWrap.cs" />
     <Compile Include="Assets\OperationalLibrary\Scripts\TrailTest.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" />
     <Compile Include="Assets\XLua\Tutorial\LoadLuaScript\ByFile\ByFile.cs" />
     <Compile Include="Assets\XLua\Src\GenericDelegateBridge.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Aircraft\Scripts\JetParticleEffect.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_LightWrap.cs" />
     <Compile Include="Assets\XLua\Examples\01_Helloworld\Helloworld.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\XLua\Src\LuaFunction.cs" />
     <Compile Include="Assets\Running\scripts\Player.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
-    <Compile Include="Assets\XLua\Gen\Tutorial_BaseClassWrap.cs" />
     <Compile Include="Assets\XLua\Src\LuaTable.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_RayWrap.cs" />
     <Compile Include="Assets\Lobby\Scripts\LobbyLoadScene.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Environment\Water\Water\Scripts\GerstnerDisplace.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Cameras\Scripts\AbstractTargetFollower.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Cameras\Scripts\LookatTarget.cs" />
-    <Compile Include="Assets\XLua\Gen\System_Collections_IEnumeratorBridge.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_DebugWrap.cs" />
     <Compile Include="Assets\XLua\Src\Utils.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneAiControl.cs" />
-    <Compile Include="Assets\XLua\Gen\DelegatesGensBridge.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Car\Scripts\CarAIControl.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_AnimationCurveWrap.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaTest_FooExtensionWrap.cs" />
     <Compile Include="Assets\Killer\Script\Player_MoveControl.cs" />
     <Compile Include="Assets\Killer\Standard Assets\ParticleSystems\Scripts\WaterHoseParticles.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_BehaviourWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\2D\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Killer\Standard Assets\ParticleSystems\Scripts\SmokeParticles.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\FollowTarget.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaTest_FooWrap.cs" />
     <Compile Include="Assets\XLua\Src\StaticLuaCallbacks.cs" />
-    <Compile Include="Assets\XLua\Gen\System_ObjectWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_Vector3Wrap.cs" />
     <Compile Include="Assets\Lobby\Scripts\LobbyUIManager.cs" />
     <Compile Include="Assets\Gal_first\Scripts\Gal_first_GameManger.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_GameObjectWrap.cs" />
     <Compile Include="Assets\XLua\Examples\09_GenericMethod\GenericMethodExample.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaTest_MyStructWrap.cs" />
     <Compile Include="Assets\XLua\Examples\12_ReImplementInLua\ReImplementInLua.cs" />
-    <Compile Include="Assets\XLua\Gen\Tutorial_CSCallLua_ItfDBridge.cs" />
     <Compile Include="Assets\Huoying2d\Scripts\Tornade.cs" />
     <Compile Include="Assets\Killer\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaTest_InvokeLua_ICalcBridge.cs" />
     <Compile Include="Assets\Pvz\scripts\Exit.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\DragRigidbody.cs" />
     <Compile Include="Assets\XLua\Src\LuaBase.cs" />
@@ -253,16 +206,13 @@
     <Compile Include="Assets\Lobby\Scripts\LobbyMusicManager.cs" />
     <Compile Include="Assets\XLua\Examples\02_U3DScripting\LuaBehaviour.cs" />
     <Compile Include="Assets\Killer\Script\Mouse_Control.cs" />
-    <Compile Include="Assets\XLua\Gen\EnumWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\ParticleSystems\Scripts\ExplosionFireAndDebris.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_KeyframeWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\ForcedReset.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\LerpControlledBob.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
     <Compile Include="Assets\TreasureHunt\BrokenVector\LowPolyDungeon\Demo Scenes\ScreenshotMaker.cs" />
     <Compile Include="Assets\Killer\Standard Assets\ParticleSystems\Scripts\ParticleSystemMultiplier.cs" />
     <Compile Include="Assets\XLua\Examples\08_Hotfix\StatefullTest.cs" />
-    <Compile Include="Assets\XLua\Gen\Tutorial_DerivedClassExtensionsWrap.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneController.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\SimpleActivatorMenu.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
@@ -273,11 +223,9 @@
     <Compile Include="Assets\Killer\Standard Assets\Utility\CameraRefocus.cs" />
     <Compile Include="Assets\XLua\Examples\05_NoGc\NoGc.cs" />
     <Compile Include="Assets\Gal_first\Scripts\AudiosourceManger.cs" />
-    <Compile Include="Assets\XLua\Gen\Tutorial_DerivedClassWrap.cs" />
     <Compile Include="Assets\XLua\Tutorial\LoadLuaScript\ByString\ByString.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\TimedObjectActivator.cs" />
     <Compile Include="Assets\Running\scripts\Running_GameManager.cs" />
-    <Compile Include="Assets\XLua\Gen\XLuaGenAutoRegister.cs" />
     <Compile Include="Assets\XLua\Src\CodeEmit.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Environment\Water\Water\Scripts\Displace.cs" />
     <Compile Include="Assets\Lobby\Scripts\LobbyGameManager.cs" />
@@ -286,12 +234,10 @@
     <Compile Include="Assets\XLua\Src\ObjectTranslatorPool.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
     <Compile Include="Assets\Killer\Standard Assets\ParticleSystems\Scripts\Explosive.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_ObjectWrap.cs" />
     <Compile Include="Assets\XLua\Src\ObjectTranslator.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Environment\Water\Water\Scripts\PlanarReflection.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\DynamicShadowSettings.cs" />
     <Compile Include="Assets\Killer\Standard Assets\Utility\SimpleMouseRotator.cs" />
-    <Compile Include="Assets\XLua\Gen\UnityEngine_Vector4Wrap.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\XLua\Examples\07_AsyncTest\Resources\async_test.lua.txt" />
@@ -319,7 +265,6 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\XLua\Examples\14_HotfixAsyncAwait\Resources\Method1.lua.txt" />
     <None Include="Assets\Killer\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
-    <None Include="Assets\XLua\Gen\link.xml" />
     <None Include="Assets\Killer\Standard Assets\Vehicles\Aircraft\AircraftGuidelines.txt" />
     <None Include="Assets\Killer\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Huoying2d\主要是角色技能动画的制作.txt" />
@@ -370,7 +315,6 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\Pvz\shader\ProgressBar.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
-    <None Include="Assets\XLua\Gen\Resources\hotfix_id_map.lua.txt" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\XLua\Resources\tdr\tdr.lua.txt" />
     <None Include="Assets\XLua\CHANGELOG.txt" />
@@ -727,6 +671,18 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Android.Types">
+      <HintPath>D:\Program Files\UnityVersion\2022.3.17f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Android.Gradle">
+      <HintPath>D:\Program Files\UnityVersion\2022.3.17f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Gradle.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Android.GradleProject">
+      <HintPath>D:\Program Files\UnityVersion\2022.3.17f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.GradleProject.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="netstandard">
