@@ -1,12 +1,118 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\UnityProjects\\Unity_study_project\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|d:\\projects\\unityprojects\\unity_study_project\\assets\\operationallibrary\\scripts\\luatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\operationallibrary\\scripts\\luatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|d:\\projects\\unityprojects\\unity_study_project\\assets\\arknights\\scripts\\utils\\injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\arknights\\scripts\\utils\\injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\arknights\\scripts\\gamestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\arknights\\scripts\\gamestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\arknights\\scripts\\utils\\single.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\arknights\\scripts\\utils\\single.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\arknights\\scripts\\manager\\abmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\arknights\\scripts\\manager\\abmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\lobby\\scripts\\lobbygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\lobby\\scripts\\lobbygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LuaTest.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\LuaTest.cs",
+              "RelativeDocumentMoniker": "Assets\\OperationalLibrary\\Scripts\\LuaTest.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\OperationalLibrary\\Scripts\\LuaTest.cs",
+              "RelativeToolTip": "Assets\\OperationalLibrary\\Scripts\\LuaTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:20:17.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Injection.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\Utils\\Injection.cs",
+              "RelativeDocumentMoniker": "Assets\\Arknights\\Scripts\\Utils\\Injection.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\Utils\\Injection.cs",
+              "RelativeToolTip": "Assets\\Arknights\\Scripts\\Utils\\Injection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:25:13.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ABManager.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\Manager\\ABManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Arknights\\Scripts\\Manager\\ABManager.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\Manager\\ABManager.cs",
+              "RelativeToolTip": "Assets\\Arknights\\Scripts\\Manager\\ABManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:05:39.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Single.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\Utils\\Single.cs",
+              "RelativeDocumentMoniker": "Assets\\Arknights\\Scripts\\Utils\\Single.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\Utils\\Single.cs",
+              "RelativeToolTip": "Assets\\Arknights\\Scripts\\Utils\\Single.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:35:00.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameStart.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\GameStart.cs",
+              "RelativeDocumentMoniker": "Assets\\Arknights\\Scripts\\GameStart.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\GameStart.cs",
+              "RelativeToolTip": "Assets\\Arknights\\Scripts\\GameStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:23:47.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LobbyGameManager.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Lobby\\Scripts\\LobbyGameManager.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyGameManager.cs",
+              "RelativeToolTip": "Assets\\Lobby\\Scripts\\LobbyGameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:01:05.283Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

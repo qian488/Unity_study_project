@@ -2,11 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements.Experimental;
-using XLua;
+
+// using XLua;
 
 namespace Operation
 {
-    [Hotfix]
+    // [Hotfix]
     public class LuaTT
     {
         public void Say()
@@ -16,6 +17,7 @@ namespace Operation
     }
     public class LuaTest : MonoBehaviour
     {
+        /*
         void Start()
         {
             LuaTT t = new LuaTT();
@@ -33,6 +35,7 @@ namespace Operation
         {
 
         }
+        */
     }
 
 }
