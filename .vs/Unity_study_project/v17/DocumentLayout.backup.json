@@ -3,24 +3,64 @@
   "WorkspaceRootPath": "D:\\Projects\\UnityProjects\\Unity_study_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\arknights\\scripts\\utils\\injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\arknights\\scripts\\utils\\injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|d:\\projects\\unityprojects\\unity_study_project\\assets\\study\\tankgame\\scripts\\ui\\startscene\\startpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\scripts\\ui\\startscene\\startpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\arknights\\scripts\\gamestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\arknights\\scripts\\gamestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|d:\\projects\\unityprojects\\unity_study_project\\assets\\study\\tankgame\\scripts\\ui\\startscene\\loadpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\scripts\\ui\\startscene\\loadpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\arknights\\scripts\\utils\\single.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\arknights\\scripts\\utils\\single.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\study\\tankgame\\scripts\\ui\\gamescene\\losepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\scripts\\ui\\gamescene\\losepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\arknights\\scripts\\manager\\abmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\arknights\\scripts\\manager\\abmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\study\\tankgame\\scripts\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\scripts\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\lobby\\scripts\\lobbygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\lobby\\scripts\\lobbygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\study\\tankgame\\scripts\\ui\\gamescene\\winpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\scripts\\ui\\gamescene\\winpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\study\\tankgame\\scripts\\data\\prefabmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\scripts\\data\\prefabmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\study\\tankgame\\scripts\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\scripts\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\study\\tankgame\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\study\\tankgame\\scripts\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\scripts\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\study\\tankgame\\scripts\\tankbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\scripts\\tankbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\study\\tankgame\\scripts\\breakobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\scripts\\breakobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\study\\tankgame\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\lobby\\scripts\\lobbyloadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\lobby\\scripts\\lobbyloadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\study\\tankgame\\xml\\xmldatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\xml\\xmldatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|D:\\Projects\\UnityProjects\\Unity_study_project\\assets\\study\\tankgame\\xml\\serizlizerdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}|Assembly-CSharp.csproj|solutionrelative:assets\\study\\tankgame\\xml\\serizlizerdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +70,191 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Injection.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\Utils\\Injection.cs",
-              "RelativeDocumentMoniker": "Assets\\Arknights\\Scripts\\Utils\\Injection.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\Utils\\Injection.cs",
-              "RelativeToolTip": "Assets\\Arknights\\Scripts\\Utils\\Injection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LoadPanel.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\UI\\StartScene\\LoadPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\Scripts\\UI\\StartScene\\LoadPanel.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\UI\\StartScene\\LoadPanel.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\Scripts\\UI\\StartScene\\LoadPanel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:25:13.077Z",
+              "WhenOpened": "2025-03-26T12:48:12.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ABManager.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\Manager\\ABManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Arknights\\Scripts\\Manager\\ABManager.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\Manager\\ABManager.cs",
-              "RelativeToolTip": "Assets\\Arknights\\Scripts\\Manager\\ABManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "StartPanel.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\UI\\StartScene\\StartPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\Scripts\\UI\\StartScene\\StartPanel.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\UI\\StartScene\\StartPanel.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\Scripts\\UI\\StartScene\\StartPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:05:39.906Z"
+              "WhenOpened": "2025-03-26T12:42:17.672Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Single.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\Utils\\Single.cs",
-              "RelativeDocumentMoniker": "Assets\\Arknights\\Scripts\\Utils\\Single.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\Utils\\Single.cs",
-              "RelativeToolTip": "Assets\\Arknights\\Scripts\\Utils\\Single.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAcAAAAAAAAAA==",
+              "Title": "LosePanel.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\UI\\GameScene\\LosePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\Scripts\\UI\\GameScene\\LosePanel.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\UI\\GameScene\\LosePanel.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\Scripts\\UI\\GameScene\\LosePanel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:35:00.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameStart.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\GameStart.cs",
-              "RelativeDocumentMoniker": "Assets\\Arknights\\Scripts\\GameStart.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Arknights\\Scripts\\GameStart.cs",
-              "RelativeToolTip": "Assets\\Arknights\\Scripts\\GameStart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:23:47.162Z"
+              "WhenOpened": "2025-03-26T12:15:40.828Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LobbyGameManager.cs",
-              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyGameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Lobby\\Scripts\\LobbyGameManager.cs",
-              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyGameManager.cs",
-              "RelativeToolTip": "Assets\\Lobby\\Scripts\\LobbyGameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "WinPanel.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\UI\\GameScene\\WinPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\Scripts\\UI\\GameScene\\WinPanel.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\UI\\GameScene\\WinPanel.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\Scripts\\UI\\GameScene\\WinPanel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T05:01:05.283Z"
+              "WhenOpened": "2025-03-26T12:03:02.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EndPoint.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\EndPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\Scripts\\EndPoint.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\EndPoint.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\Scripts\\EndPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:57:37.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\Tank.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\Scripts\\Tank.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\Tank.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\Scripts\\Tank.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:54:13.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrefabManager.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\Data\\PrefabManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\Scripts\\Data\\PrefabManager.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\Data\\PrefabManager.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\Scripts\\Data\\PrefabManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:40:14.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TankBase.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\TankBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\Scripts\\TankBase.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\TankBase.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\Scripts\\TankBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:14:06.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\Scripts\\Player.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:00:33.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reward.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\Reward.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\Scripts\\Reward.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\Reward.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\Scripts\\Reward.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:53:48.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\Scripts\\Bullet.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:50:24.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BreakObj.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\BreakObj.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\Scripts\\BreakObj.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\Scripts\\BreakObj.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\Scripts\\BreakObj.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:47:16.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LobbyLoadScene.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyLoadScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Lobby\\Scripts\\LobbyLoadScene.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Lobby\\Scripts\\LobbyLoadScene.cs",
+              "RelativeToolTip": "Assets\\Lobby\\Scripts\\LobbyLoadScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:18:48.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XmlDataManager.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\XML\\XmlDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\XML\\XmlDataManager.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\XML\\XmlDataManager.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\XML\\XmlDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:21:57.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SerizlizerDictionary.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\XML\\SerizlizerDictionary.cs",
+              "RelativeDocumentMoniker": "Assets\\Study\\TankGame\\XML\\SerizlizerDictionary.cs",
+              "ToolTip": "D:\\Projects\\UnityProjects\\Unity_study_project\\Assets\\Study\\TankGame\\XML\\SerizlizerDictionary.cs",
+              "RelativeToolTip": "Assets\\Study\\TankGame\\XML\\SerizlizerDictionary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:21:52.387Z"
             }
           ]
         }

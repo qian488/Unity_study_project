@@ -120,7 +120,7 @@
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -define:UNITY_EDITOR_ONLY_COMPILATION
--r:"Assets/OperationalLibrary/Plugins/Mono.Data.Sqlite.dll"
+-r:"Assets/Study/OperationalLibrary/Plugins/Mono.Data.Sqlite.dll"
 -r:"D:/Program Files/UnityVersion/2022.3.17f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"D:/Program Files/UnityVersion/2022.3.17f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"D:/Program Files/UnityVersion/2022.3.17f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -380,12 +380,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/Program Files/UnityVersion/2022.3.17f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Program Files/UnityVersion/2022.3.17f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Killer/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs"
-"Assets/Killer/Standard Assets/Editor/Water/Water4/GerstnerDisplaceEditor.cs"
-"Assets/Killer/Standard Assets/Editor/Water/Water4/PlanarReflectionEditor.cs"
-"Assets/Killer/Standard Assets/Editor/Water/Water4/SpecularLightingEditor.cs"
-"Assets/Killer/Standard Assets/Editor/Water/Water4/WaterBaseEditor.cs"
-"Assets/Killer/Standard Assets/Editor/Water/Water4/WaterEditorUtility.cs"
+"Assets/Study/Killer/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs"
+"Assets/Study/Killer/Standard Assets/Editor/Water/Water4/GerstnerDisplaceEditor.cs"
+"Assets/Study/Killer/Standard Assets/Editor/Water/Water4/PlanarReflectionEditor.cs"
+"Assets/Study/Killer/Standard Assets/Editor/Water/Water4/SpecularLightingEditor.cs"
+"Assets/Study/Killer/Standard Assets/Editor/Water/Water4/WaterBaseEditor.cs"
+"Assets/Study/Killer/Standard Assets/Editor/Water/Water4/WaterEditorUtility.cs"
 -langversion:9.0
 
 /deterministic

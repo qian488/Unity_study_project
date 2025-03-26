@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Arknights/GameStart.unity
+- path: Assets/Study/Arknights/GameStart.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
