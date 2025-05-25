@@ -27,7 +27,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169;USG0001</NoWarn>
-    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -36,7 +36,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169;USG0001</NoWarn>
-    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup>
     <NoConfig>true</NoConfig>
@@ -1101,6 +1101,14 @@
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{56D6D7C4-11E8-7204-023F-3E705FA3CBA3}</Project>
       <Name>Assembly-CSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="Live2D.Cubism.Editor.csproj">
+      <Project>{F3C9FC18-6216-2026-F2FE-08A624F90A4E}</Project>
+      <Name>Live2D.Cubism.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Live2D.Cubism.csproj">
+      <Project>{B437D8D6-816B-8EA8-BDF7-9439B0F352DB}</Project>
+      <Name>Live2D.Cubism</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

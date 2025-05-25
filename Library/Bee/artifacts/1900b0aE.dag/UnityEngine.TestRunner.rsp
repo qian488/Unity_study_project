@@ -463,6 +463,7 @@
 /nowarn:0282
 /nowarn:1701
 /nowarn:1702
+-unsafe
 /utf8output
 /preferreduilang:en-US
 

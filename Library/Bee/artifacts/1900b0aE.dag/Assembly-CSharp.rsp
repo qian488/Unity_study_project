@@ -333,6 +333,8 @@
 -r:"D:/Program Files/UnityVersion/2022.3.17f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
 -r:"Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Live2D.Cubism.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Live2D.Cubism.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ref.dll"
@@ -564,6 +566,7 @@
 /nowarn:0282
 /nowarn:1701
 /nowarn:1702
+-unsafe
 /utf8output
 /preferreduilang:en-US
 

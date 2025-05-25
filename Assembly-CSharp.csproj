@@ -27,7 +27,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169;USG0001</NoWarn>
-    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -36,7 +36,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169;USG0001</NoWarn>
-    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup>
     <NoConfig>true</NoConfig>
@@ -262,6 +262,7 @@
     <None Include="Assets\Study\Killer\Standard Assets\Effects\Projectors\Guidelines.txt" />
     <None Include="Assets\Study\Huoying2d\bug_风和角色始终一个方向.txt" />
     <None Include="Assets\Study\TreasureHunt\Hovl Studio\Procedural fire\Shaders\FireSphere.shader" />
+    <None Include="Assets\mcs.rsp" />
     <None Include="Assets\Study\Killer\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
@@ -289,6 +290,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\Study\Killer\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
     <None Include="Assets\Study\OperationalLibrary\Plugins\sqlite3.dll" />
+    <None Include="Assets\csc.rsp" />
     <None Include="Assets\Study\Package\仅粗略完成UI搭建.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\Study\Killer\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
@@ -1277,6 +1279,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Live2D.Cubism.Editor.csproj">
+      <Project>{F3C9FC18-6216-2026-F2FE-08A624F90A4E}</Project>
+      <Name>Live2D.Cubism.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Live2D.Cubism.csproj">
+      <Project>{B437D8D6-816B-8EA8-BDF7-9439B0F352DB}</Project>
+      <Name>Live2D.Cubism</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
